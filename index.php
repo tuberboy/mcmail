@@ -25,7 +25,7 @@
     <div class="title">SEND E-MAILS TO MULTIPLE RECIPIENTS</div>
     <form method="post">
         <input type="email" name="email" placeholder="Enter A Gmail/E-mail Address *" required>
-        <input type="text" name="password" placeholder="Enter Gmail/E-mail Password *" required>
+        <input type="text" name="password" placeholder="Enter Gmail/E-mail Password (for gmail AppPassword) *" required>
 		<input type="text" name="name" placeholder="Enter Name">
         <input type="text" name="subject" placeholder="Enter Subject">
         <textarea type="text" name="content" placeholder="Enter Text *" required></textarea>
