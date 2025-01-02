@@ -1,6 +1,10 @@
 # mcMAIL
 PHP to send unlimited emails to unlimited recipients using mcMAIL (SMTP) without block and spam.
 
+## Required
+
+* Gmail AppPasswords: https://myaccount.google.com/apppasswords
+
 <h2>Image Demo:</h2>
 <img src="https://raw.githubusercontent.com/TuberBoy/mcIMG/main/Send%20Multiple%20E-Mails%20-%20mcMAIL%20by%20TUBER%20BOY.png"/>
 
