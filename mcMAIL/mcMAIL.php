@@ -37,7 +37,7 @@ Class SMTPMailer
         $this->port     = 587;
         $this->secure   = 'tls';
         $this->username = $cfg_username;
-        $this->password = $cfg_password;
+        $this->password = $cfg_password; // app password required for gmail, to generate enable 2FA then get it from: https://myaccount.google.com/apppasswords
 
         // Define connection hostname and localhost
         $this->hostname = $this->server;
